@@ -14,3 +14,14 @@ Overall calls answered/abandoned
 Calls by time
 Average speed of answer
 Agent’s performance quadrant -> average handle time (talk duration) vs calls answered.
+
+
+
+What you'll learn:
+The importance of upskilling in the digital age and its role in the workplace.
+The concept of becoming a "Digital Accelerator" and the skills associated with it.
+How to create a Power BI dashboard for visualizing key performance indicators (KPIs) and metrics.
+What you'll do:
+Create a dashboard in Power BI for visualizing relevant KPIs and metrics in the dataset provided.
+Utilize the resources provided, including podcasts and articles, to enhance your understanding of data visualization and upskilling.
+Respond to the client's request by providing a well-designed Power BI dashboard reflecting the requested KPIs.
